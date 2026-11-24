@@ -1,0 +1,3 @@
+/home/clrncx/Documents/C/RaylibProj/build/CMakeFiles/StarShooter.dir
+/home/clrncx/Documents/C/RaylibProj/build/CMakeFiles/edit_cache.dir
+/home/clrncx/Documents/C/RaylibProj/build/CMakeFiles/rebuild_cache.dir

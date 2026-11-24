@@ -1,0 +1,3 @@
+/home/clrncx/Documents/C/RaylibProj/CMakeFiles/RaylibProj.dir
+/home/clrncx/Documents/C/RaylibProj/CMakeFiles/edit_cache.dir
+/home/clrncx/Documents/C/RaylibProj/CMakeFiles/rebuild_cache.dir

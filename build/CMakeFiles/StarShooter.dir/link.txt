@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/StarShooter.dir/link.d CMakeFiles/StarShooter.dir/app.c.o -o StarShooter  /usr/lib/libraylib.so.6.2.0 -lm
