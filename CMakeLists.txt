@@ -6,6 +6,6 @@ set(CMAKE_C_STANDARD 11)
 
 find_package(raylib REQUIRED)
 
-add_executable(StarShooter app.c)
+add_executable(StarShooter StarShooterGame.c ./src/enemyManager/enemyBehavior.c ./src/bulletManager/bulletManager.c)
 
 target_link_libraries(StarShooter raylib)

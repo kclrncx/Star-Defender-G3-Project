@@ -8,7 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/clrncx/Documents/C/RaylibProj/app.c" "CMakeFiles/StarShooter.dir/app.c.o" "gcc" "CMakeFiles/StarShooter.dir/app.c.o.d"
+  "/home/klrncx/Documents/C/Star-Defender-G3-Project/StarShooterGame.c" "CMakeFiles/StarShooter.dir/StarShooterGame.c.o" "gcc" "CMakeFiles/StarShooter.dir/StarShooterGame.c.o.d"
+  "/home/klrncx/Documents/C/Star-Defender-G3-Project/src/bulletManager/bulletManager.c" "CMakeFiles/StarShooter.dir/src/bulletManager/bulletManager.c.o" "gcc" "CMakeFiles/StarShooter.dir/src/bulletManager/bulletManager.c.o.d"
+  "/home/klrncx/Documents/C/Star-Defender-G3-Project/src/enemyManager/enemyBehavior.c" "CMakeFiles/StarShooter.dir/src/enemyManager/enemyBehavior.c.o" "gcc" "CMakeFiles/StarShooter.dir/src/enemyManager/enemyBehavior.c.o.d"
   "" "StarShooter" "gcc" "CMakeFiles/StarShooter.dir/link.d"
   )
 

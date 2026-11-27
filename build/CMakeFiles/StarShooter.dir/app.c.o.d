@@ -1,6 +1,6 @@
 CMakeFiles/StarShooter.dir/app.c.o: \
- /home/clrncx/Documents/C/RaylibProj/app.c /usr/include/stdc-predef.h \
- /usr/include/raylib.h \
+ /home/klrncx/Documents/C/Star-Defender-G3-Project/app.c \
+ /usr/include/stdc-predef.h /usr/include/raylib.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdbool.h \
  /usr/include/stdlib.h /usr/include/bits/libc-header-start.h \

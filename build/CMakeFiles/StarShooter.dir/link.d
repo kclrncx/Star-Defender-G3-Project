@@ -2,7 +2,9 @@ StarShooter: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o \
-  CMakeFiles/StarShooter.dir/app.c.o \
+  CMakeFiles/StarShooter.dir/StarShooterGame.c.o \
+  CMakeFiles/StarShooter.dir/src/enemyManager/enemyBehavior.c.o \
+  CMakeFiles/StarShooter.dir/src/bulletManager/bulletManager.c.o \
   /usr/lib/libraylib.so.6.2.0 \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
@@ -39,14 +41,10 @@ StarShooter: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o \
-  /usr/lib32/libX11.so.6 \
   /usr/lib/libX11.so.6 \
   /usr/lib/ld-linux-x86-64.so.2 \
-  /usr/lib32/libxcb.so.1 \
   /usr/lib/libxcb.so.1 \
-  /usr/lib32/libXau.so.6 \
   /usr/lib/libXau.so.6 \
-  /usr/lib32/libXdmcp.so.6 \
   /usr/lib/libXdmcp.so.6
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/Scrt1.o:
@@ -55,7 +53,11 @@ StarShooter: \
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
 
-CMakeFiles/StarShooter.dir/app.c.o:
+CMakeFiles/StarShooter.dir/StarShooterGame.c.o:
+
+CMakeFiles/StarShooter.dir/src/enemyManager/enemyBehavior.c.o:
+
+CMakeFiles/StarShooter.dir/src/bulletManager/bulletManager.c.o:
 
 /usr/lib/libraylib.so.6.2.0:
 
@@ -129,20 +131,12 @@ CMakeFiles/StarShooter.dir/app.c.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o:
 
-/usr/lib32/libX11.so.6:
-
 /usr/lib/libX11.so.6:
 
 /usr/lib/ld-linux-x86-64.so.2:
 
-/usr/lib32/libxcb.so.1:
-
 /usr/lib/libxcb.so.1:
 
-/usr/lib32/libXau.so.6:
-
 /usr/lib/libXau.so.6:
-
-/usr/lib32/libXdmcp.so.6:
 
 /usr/lib/libXdmcp.so.6:
