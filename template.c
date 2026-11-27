@@ -1,3 +1,7 @@
+/*
+ *  TEMPLATE FOR THE GAME
+ * */
+
 #include <raylib.h>
 #include <stdlib.h>
 #include <raymath.h>
