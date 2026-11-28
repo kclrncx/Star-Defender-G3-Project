@@ -1,3 +1,0 @@
-D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\StarShooter.dir/objects.a
-D:\gcc-15.1.0\bin\ar.exe qc CMakeFiles\StarShooter.dir/objects.a @CMakeFiles\StarShooter.dir\objects1.rsp
-D:\gcc-15.1.0\bin\gcc.exe -Wl,--defsym,stat64i32=_stat64i32 -Wl,--whole-archive CMakeFiles\StarShooter.dir/objects.a -Wl,--no-whole-archive -o StarShooter.exe -Wl,--out-implib,libStarShooter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StarShooter.dir\linkLibs.rsp

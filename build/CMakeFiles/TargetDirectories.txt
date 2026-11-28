@@ -1,3 +1,0 @@
-C:/Users/Clarence Booc/Documents/C/G3-Project/build/CMakeFiles/StarShooter.dir
-C:/Users/Clarence Booc/Documents/C/G3-Project/build/CMakeFiles/edit_cache.dir
-C:/Users/Clarence Booc/Documents/C/G3-Project/build/CMakeFiles/rebuild_cache.dir
